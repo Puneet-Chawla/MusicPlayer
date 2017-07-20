@@ -1,0 +1,7 @@
+#Thu Jan 26 20:24:28 IST 2017
+base.0=C\:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_043fcc2fe39efb0b8a48950dc38f6eb6867a617b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_075eb36dfdc6be8a5bd1f9e2a50f6ad89dc37c0c\\classes.dex
+base.1=C\:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_075eb36dfdc6be8a5bd1f9e2a50f6ad89dc37c0c
+file.0=C\:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_043fcc2fe39efb0b8a48950dc38f6eb6867a617b\\classes.dex
